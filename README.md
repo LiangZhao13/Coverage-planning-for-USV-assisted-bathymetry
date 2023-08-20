@@ -20,3 +20,9 @@ Please download the file in this [link](https://gitlab.com/liangzhao13/coverage-
 ### Run 
 Find **coverage_app.exe** and run. Click on the **Start** button, then select the "Testcase.mat" file and run. 
 
+## Example
+### This is the Graphical User Interface of the software
+![GUI](pics/GUI.jpg)
+
+### This is the results of the testcase
+![results](pics/Results.jpg)
