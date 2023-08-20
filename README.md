@@ -26,3 +26,6 @@ Find **coverage_app.exe** and run. Click on the **Start** button, then select th
 
 ### This is the results of the testcase
 ![results](pics/Results.jpg)
+
+### This is the results when we modify the length and width of the sensing range
+![results](pics/results2.jpg)
