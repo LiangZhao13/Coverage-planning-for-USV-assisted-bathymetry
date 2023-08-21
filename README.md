@@ -31,3 +31,14 @@ Find **coverage_app.exe** and run. Click on the **Start** button, then select th
 
 ## Design your own cases
 We encourage users to test their own scenarios. The ".mat" file should contain two contents: The first one is the number of regions it is "double" object. It should be named as "NooRegions" (case sensitive, make sure it is the exact same text). The second one is a "cell" object named as "regions". It contains several cells, each one represents a specific region. In each cell, the points of one region are stored in (x, y) form. 
+
+### This is an example of the sceanrio design
+![parameter](pics/parameters.jpg)
+
+### This is an illustration of designing regions
+![regions](example of region.jpg)
+
+
+
+
+
