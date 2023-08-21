@@ -36,7 +36,7 @@ We encourage users to test their own scenarios. The ".mat" file should contain t
 ![parameter](pics/parameters.jpg)
 
 ### This is an illustration of designing regions
-![regions](example of region.jpg)
+![regions](regions.jpg)
 
 
 
